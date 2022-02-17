@@ -32,7 +32,7 @@ pipeline {
 			echo "I succeed."
 		}
 		failure{
-			excho "I fail"
+			echo "I fail"
 		}
 	}
 }
